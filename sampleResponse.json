@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": "AFP",
+      "title": "David Warner's manager makes shock new claim about Sandpaper-gate: 'They were told to do it'",
+      "description": "\"Two executives\" laid the foundations for the infamous 2018 ball-tampering scandal that shook Australian cricket, batsman David Warner's manager claimed.",
+      "url": "https://www.news24.com/sport/cricket/david-warners-manager-makes-shock-new-claim-about-sandpaper-gate-they-were-told-to-do-it-20221208",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9408/ab252045b3204d6985caa51c8217afe5.jpg",
+      "publishedAt": "2022-12-08T10:44:22+00:00",
+      "content": "\"Two executives\" laid the foundations for the infamous 2018 ball-tampering scandal that shook Australian cricket, batsman David Warner's manager claimed on Thursday.\r\nThe incident involved an attempt… [+2008 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": null,
+      "title": "BJP's Rivaba Jadeja, Cricketer Ravindra Jadeja's Wife, Wins Gujarat Seat",
+      "description": "Aam Aadmi Party's Karshanbhai Karmur, with 23 per cent votes, was her closest competitor, and Bipendrasinh Chatursinh Jadeja from Congress came third with 15.5 per cent votes.",
+      "url": "https://www.ndtv.com/india-news/bjps-rivaba-jadeja-cricketer-ravindra-jadejas-wife-wins-gujarat-seat-3589149",
+      "urlToImage": "https://c.ndtvimg.com/2022-11/lhkl0or8_rivaba-jadeja_625x300_16_November_22.jpg",
+      "publishedAt": "2022-12-08T10:33:51+00:00",
+      "content": "Jamnagar North voted in the first round of the Gujarat elections.\r\nNew Delhi: Rivaba Jadeja, the wife of cricketer Ravindra Jadeja, and the Bharatiya Janata Party candidate from the Jamnagar North co… [+1555 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
